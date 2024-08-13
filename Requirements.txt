@@ -1,0 +1,10 @@
+To implement CRUD (Create, Read, Update, Delete) operations in a MySQL database using a Jupyter Notebook in Visual Studio Code (VS Code), follow these steps:
+
+1.Install_MySQL: Ensure MySQL is installed and running on your system.
+
+2.Install_VS_Code: Ensure Visual Studio Code is installed.
+
+3.Install_Python_and_Jupyter: Ensure Python and Jupyter Notebook are installed.
+
+4.Install_MySQL_Connector_for_Python: Install the MySQL Connector package to allow Python to interact with MySQL.
+
